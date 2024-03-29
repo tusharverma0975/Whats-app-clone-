@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-03-29T12:00:00Z",
+    "user": { "id": "u1", "name": "John Doe" }
+  },
+  {
+    "id": 2,
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "createdAt": "2024-03-29T12:10:00Z",
+    "user": { "id": "u2", "name": "Jane Smith" }
+  },
+  {
+    "id": 3,
+    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "createdAt": "2024-03-29T12:20:00Z",
+    "user": { "id": "u1", "name": "Alice Johnson" }
+  },
+  {
+    "id": 4,
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "createdAt": "2024-03-29T12:30:00Z",
+    "user": { "id": "u2", "name": "Bob Williams" }
+  },
+  {
+    "id": 5,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "createdAt": "2024-03-29T12:40:00Z",
+    "user": { "id": "u1", "name": "Emily Brown" }
+  },
+  {
+    "id": 6,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-03-29T12:50:00Z",
+    "user": { "id": "u2", "name": "Michael Wilson" }
+  },
+  {
+    "id": 7,
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "createdAt": "2024-03-29T13:00:00Z",
+    "user": { "id": "u1", "name": "Sophia Lee" }
+  },
+  {
+    "id": 8,
+    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "createdAt": "2024-03-29T13:10:00Z",
+    "user": { "id": "u2", "name": "William Miller" }
+  },
+  {
+    "id": 9,
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "createdAt": "2024-03-29T13:20:00Z",
+    "user": { "id": "u1", "name": "Olivia Davis" }
+  },
+  {
+    "id": 10,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "createdAt": "2024-03-29T13:30:00Z",
+    "user": { "id": "u2", "name": "James Jones" }
+  },
+  {
+    "id": 11,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-03-29T13:40:00Z",
+    "user": { "id": "u1", "name": "Ethan Clark" }
+  },
+  {
+    "id": 12,
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "createdAt": "2024-03-29T13:50:00Z",
+    "user": { "id": "u2", "name": "Lily Hernandez" }
+  },
+  {
+    "id": 13,
+    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "createdAt": "2024-03-29T14:00:00Z",
+    "user": { "id": "u1", "name": "Mia Scott" }
+  },
+  {
+    "id": 14,
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "createdAt": "2024-03-29T14:10:00Z",
+    "user": { "id": "u2", "name": "Noah Martinez" }
+  },
+  {
+    "id": 15,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "createdAt": "2024-03-29T14:20:00Z",
+    "user": { "id": "u1", "name": "Ava Gonzalez" }
+  },
+  {
+    "id": 16,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-03-29T14:30:00Z",
+    "user": { "id": "u2", "name": "Alexander Perez" }
+  },
+  {
+    "id": 17,
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "createdAt": "2024-03-29T14:40:00Z",
+    "user": { "id": "u1", "name": "Abigail Carter" }
+  },
+  {
+    "id": 18,
+    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "createdAt": "2024-03-29T14:50:00Z",
+    "user": { "id": "u2", "name": "Daniel Wood" }
+  },
+  {
+    "id": 19,
+    "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "createdAt": "2024-03-29T15:00:00Z",
+    "user": { "id": "u1", "name": "Chloe Stewart" }
+  },
+  {
+    "id": 20,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "createdAt": "2024-03-29T15:10:00Z",
+    "user": { "id": "u2", "name": "Joseph Ward" }
+  }
+]
